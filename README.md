@@ -1,2 +1,2 @@
 # C++ 
-content of external course sessions
+content of external oop course sessions
