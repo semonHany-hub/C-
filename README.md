@@ -1,2 +1,2 @@
 # C++ projects
-content of academic sections and external course sessions
+content of academic sections (second term) and external course sessions
