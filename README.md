@@ -1,2 +1,2 @@
 # C++ 
-content of academic sections and an external course sessions
+content of external course sessions
